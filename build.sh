@@ -1,0 +1,1 @@
+docker build -t sechavarrinearbpo/docker-npm-maven:latest -t sechavarrinearbpo/docker-npm-maven:1.3.0 
